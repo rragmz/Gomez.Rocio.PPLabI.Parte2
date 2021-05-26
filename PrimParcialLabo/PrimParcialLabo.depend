@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1622036811 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1621946988 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\menu.h
+
+1622036890 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"fecha.h"
+	"tipo.h"
+	"marca.h"
+	"color.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+	"datawarehouseParcial.h"
+	"informes.h"
+
+1622038310 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"utn.h"
+	"cliente.h"
+
+1622035711 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"marca.h"
+	"cliente.h"
+
+1621912819 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"color.h"
+
+1621912964 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\color.h
+
+1621987465 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\fecha.c
+	"fecha.h"
+
+1621987033 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\fecha.h
+
+1621914136 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\tipo.h
+
+1621913446 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\servicio.h
+
+1622038278 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\trabajo.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"fecha.h"
+	"bicicleta.h"
+	"servicio.h"
+
+1621913065 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1621898314 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1622038369 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\trabajo.c
+	"trabajo.h"
+	"fecha.h"
+
+1621990942 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\utn.h
+
+1621990927 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1622031332 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\datawarehouseparcial.h
+	<string.h>
+	"bicicleta.h"
+	"trabajo.h"
+
+1622036781 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\datawarehouseparcial.c
+	"datawarehouseParcial.h"
+	"fecha.h"
+
+1622037981 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+	"fecha.h"
+
+1622036038 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\informes.h
+	"informes.h"
+	"bicicleta.h"
+	"trabajo.h"
+	"servicio.h"
+	"color.h"
+	"tipo.h"
+
+1622034318 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\cliente.h
+
+1622034461 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cliente.h"
+
+1622035238 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\marca.h
+
+1622037157 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+
